@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-My homeworks for stepik_auto_tests_course >:C
-https://stepik.org/
+My homeworks for [«Test Automation with Selenium and Python» course](https://stepik.org/course/575/)
+
